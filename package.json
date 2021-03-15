@@ -1,0 +1,28 @@
+{
+  "name": "tairov_exam",
+  "version": "1.0.0",
+  "description": "proj with bourbon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tairov",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.14",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rigger": "^0.5.8",
+    "gulp-sass": "^4.1.0",
+    "gulp-terser": "^2.0.1"
+  },
+  "browserslist": [
+    "last 1 version"
+  ],
+  "dependencies": {
+    "bourbon": "^7.0.0"
+  }
+}
